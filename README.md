@@ -22,9 +22,9 @@ This repository is my learning space to experiment with different tools, archite
 ```
 Vector_DB_Projects/
 │
-├── project_1_faiss/        # Basic FAISS similarity search
-├── project_2_qdrant/       # Qdrant vector DB experiments
-├── project_3_rag/          # RAG-based chatbot (planned)
+├── FAISS_simple/        # Basic FAISS similarity search
+├── 
+├── 
 │
 ├── .gitignore
 ├── README.md
@@ -54,7 +54,7 @@ Each project is **self-contained** with its own:
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/Vector_DB_Projects.git
+git clone https://github.com/vaisakh488/Vector_DB_Projects.git
 cd Vector_DB_Projects
 ```
 
@@ -68,24 +68,6 @@ source .venv/bin/activate   # Linux / Mac
 .venv\Scripts\activate      # Windows
 ```
 
----
-
-### 3. Install dependencies (per project)
-
-```
-cd project_1_faiss
-pip install -r requirements.txt
-```
-
----
-
-### 4. Run a project
-
-```
-python faiss_demo.py
-```
-
----
 
 ## 🧪 Example Projects
 
