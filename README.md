@@ -23,9 +23,9 @@ This repository is my learning space to experiment with different tools, archite
 Vector_DB_Projects/
 │
 ├── FAISS_simple/        # Basic FAISS similarity search
-├── 
-├── 
-│
+├── FAISS_simple_persistent
+├── FAISS_vector_visualization
+│── VectorVault
 ├── .gitignore
 ├── README.md
 ```
